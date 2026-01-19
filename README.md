@@ -1,33 +1,30 @@
 <div align="center">
 
-<!-- Header dengan gradient dan animasi -->
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Abdurrohman&fontSize=70&fontAlignY=40&animation=fadeIn&desc=Software%20Developer&descAlignY=65)
+<!-- Header dengan animasi wave -->
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:FF6584,100:36BCF7&height=250&section=header&text=Abdurrohman&fontSize=70&fontAlignY=40&animation=scale&desc=&descAlignY=65&descSize=25)
 
-<!-- Animated Typing Text dengan gradient -->
+<!-- Typing Animation -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <span style="background: linear-gradient(45deg, #6C63FF, #FF6584); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Transforming Ideas into Digital Experiences
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=I'm+UI%2FUX+Designer;I'm+Web+Developer;I'm+Mobile+Developer;Student+at+IDN" alt="Typing Animation" />
 </h2>
 
-<!-- Tech Stack Badges dengan animasi -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-6C63FF?style=for-the-badge&logo=web&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile%20Developer-FF6584?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20Designer-36BCF7?style=for-the-badge&logo=figma&logoColor=white" />
+<!-- Badges -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/UI/UX%20DESIGNER-FF6B8B?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/WEB%20DEVELOPER-6C63FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MOBILE%20DEVELOPER-36BCF7?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d1117" />
 </div>
 
 </div>
 
 <br />
 
-<!-- Profile Stats Cards -->
+<!-- GitHub Stats -->
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maman2008&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maman2008&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&count_private=true&border_radius=20&include_all_commits=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maman2008&layout=compact&theme=radical&bg_color=0d1117&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maman2008&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&border_radius=20)
 
 </div>
 
@@ -37,8 +34,8 @@
 
 <div align="center">
 
-<p style="font-size: 1.1em; line-height: 1.8;">
-  <strong>Halo! Saya Abdurrohman</strong> – seorang <strong>Software Developer</strong> yang passionate dalam menciptakan solusi digital yang elegan, fungsional, dan user-friendly. Saya percaya bahwa teknologi yang baik adalah teknologi yang dapat diakses dan bermanfaat bagi banyak orang.
+<p style="font-size: 1.1em; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+  Halo! Saya <strong>Abdurrohman</strong>, seorang pelajar di <strong>IDN</strong> yang passionate dalam pengembangan perangkat lunak. Saya fokus pada <strong>UI/UX Design, Web Development, dan Mobile Development</strong> untuk menciptakan solusi digital yang inovatif.
 </p>
 
 </div>
@@ -51,28 +48,30 @@
 <tr>
 <td align="center" width="33%">
   
+### 🎨 **UI/UX Design**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50" />
+<br />
+Figma • Canva
+
+</td>
+<td align="center" width="33%">
+
 ### 🌐 **Web Development**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
 <br />
-Laravel • PHP • MySQL
+HTML • CSS • JavaScript
 
 </td>
 <td align="center" width="33%">
 
 ### 📱 **Mobile Development**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" />
 <br />
-Cross-platform Apps • Native Experience
-
-</td>
-<td align="center" width="33%">
-
-### 🎨 **UI/UX Design**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
-<br />
-Figma • Canva • User Research
+Flutter • Dart
 
 </td>
 </tr>
@@ -84,20 +83,32 @@ Figma • Canva • User Research
 
 <div align="center">
 
-### **Frontend Development**
+### **🎨 Design & Prototyping**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+### **🌐 Frontend Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### **Backend Development**
+### **⚙️ Backend Development**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### **Mobile & Tools**
+### **🗄️ Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
+![TablePlus](https://img.shields.io/badge/TablePlus-1E1E1E?style=flat-square&logo=tableplus&logoColor=white)
+
+### **📱 Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### **🔧 Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -107,22 +118,22 @@ Figma • Canva • User Research
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" style="padding: 15px;">
 
-### 🚀 **Apa yang Saya Bangun**
-- 🌐 Website responsif & modern
-- 📱 Aplikasi mobile cross-platform
-- 🎨 Desain UI/UX yang intuitif
-- 🔧 Sistem backend yang scalable
+### 🚀 **Proyek yang Dibangun**
+- Website responsif dengan HTML, CSS, JS
+- Aplikasi mobile dengan Flutter
+- UI/UX design dengan Figma
+- Sistem backend dengan Laravel & PHP
 
 </td>
-<td width="50%">
+<td width="50%" style="padding: 15px;">
 
-### 💡 **Filosofi Saya**
-- ✅ Clean & maintainable code
-- 🎯 User-centered design
-- 📖 Continuous learning
-- 🤝 Collaboration & teamwork
+### 💡 **Prinsip Kerja**
+- Kode yang bersih dan terstruktur
+- Desain yang user-friendly
+- Pembelajaran berkelanjutan
+- Kolaborasi tim yang efektif
 
 </td>
 </tr>
@@ -130,28 +141,26 @@ Figma • Canva • User Research
 
 </div>
 
-## 🌟 **Filosofi Kerja**
-
-> "**Kualitas** bukanlah sebuah tindakan, melainkan **kebiasaan**. Setiap baris kode yang ditulis, setiap desain yang dibuat, adalah cerminan dedikasi untuk menciptakan sesuatu yang berarti."
-
 ## 📫 **Mari Terhubung**
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maman2008)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdurrohmanmaman.my.id)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
 <br />
+<br />
 
-**"Terus belajar, terus membangun, dan tetap konsisten."** ✨
+**Terus belajar dan berkembang!** ✨
 
 </div>
 
-<!-- Footer dengan animasi -->
-<div align="center">
+<!-- Footer -->
+<div align="center" style="margin-top: 30px;">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:FF6584,100:36BCF7&height=100&section=footer&reversal=true)
+
+**© 2024 Abdurrohman • IDN Student**
 
 </div>
