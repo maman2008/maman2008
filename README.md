@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="assets/profile.jpg" width="160" style="border-radius:50%;" alt="Abdurrohman" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2800&pause=600&color=6C63FF&center=true&vCenter=true&width=600&height=60&lines=I'm+a+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Mobile+Developer" alt="Typing SVG" />
 
 # Abdurrohman
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=500&height=50&lines=UI%2FUX+Designer;Web+Developer;Mobile+Developer" alt="Typing SVG" />
-
-![UI/UX Designer](https://img.shields.io/badge/🎨_UI%2FUX-DESIGNER-6C63FF?style=for-the-badge&logoColor=white)
-![Web Developer](https://img.shields.io/badge/💻_WEB-DEVELOPER-1E1E1E?style=for-the-badge)
+![Web Developer](https://img.shields.io/badge/💻_WEB-DEVELOPER-6C63FF?style=for-the-badge)
+![UI/UX Designer](https://img.shields.io/badge/🎨_UI%2FUX-DESIGNER-1E1E1E?style=for-the-badge)
 ![Mobile Developer](https://img.shields.io/badge/📱_MOBILE-DEVELOPER-1E1E1E?style=for-the-badge)
 
 </div>
@@ -16,7 +14,7 @@
 
 ## 👨‍💻 Tentang Saya
 
-Halo! Saya **Abdurrohman**, seorang pelajar di **IDN Boarding School** yang memiliki passion mendalam dalam dunia pengembangan perangkat lunak. Saya berdedikasi untuk menciptakan solusi digital yang **inovatif, fungsional, dan estetis** melalui pendekatan yang berpusat pada pengguna.
+Halo! Saya **Abdurrohman**, seorang pelajar di **SMK IDN Boarding School Solo** jurusan **Rekayasa Perangkat Lunak**. Saya memiliki fondasi kuat dalam **web development** (HTML, CSS, Tailwind, JavaScript, PHP, Laravel) dan sedang mengembangkan skill **UI/UX Design** serta fokus pada **Android development dengan Flutter**.
 
 🚀 **Misi Saya:** Menciptakan pengalaman digital yang seamless dan impactful melalui kombinasi desain yang indah dan kode yang efisien.
 
@@ -48,7 +46,6 @@ Halo! Saya **Abdurrohman**, seorang pelajar di **IDN Boarding School** yang memi
 Wireframing • Prototyping<br/>User Research • Design System
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 </td>
 <td align="center" width="33%">
@@ -93,11 +90,10 @@ Version Control • Collaboration<br/>Deployment
 </td>
 <td align="center" width="33%">
 
-### 🎨 Design Tools
-Prototyping • Asset Creation<br/>Visual Design
+### 📚 Certifications
+Dicoding • ID Networkers
 
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Dicoding](https://img.shields.io/badge/Dicoding-2D3E50?style=flat-square&logo=dicoding&logoColor=white)
 
 </td>
 </tr>
@@ -178,10 +174,10 @@ Prototyping • Asset Creation<br/>Visual Design
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maman2008)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdurrohmanmaman.my.id)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drive.google.com/drive/folders/13SWgCeJouFHyUfMchov6XCCt-gU_vTYU)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahmanjkt2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrohman-46494031b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maman.nn11/?hl=en)
 
 </div>
 
