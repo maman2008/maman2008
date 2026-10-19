@@ -4,23 +4,23 @@
 
 # Abdurrohman
 
-![Web Developer](https://img.shields.io/badge/💻_WEB-DEVELOPER-6C63FF?style=for-the-badge)
-![UI/UX Designer](https://img.shields.io/badge/🎨_UI%2FUX-DESIGNER-1E1E1E?style=for-the-badge)
-![Mobile Developer](https://img.shields.io/badge/📱_MOBILE-DEVELOPER-1E1E1E?style=for-the-badge)
+![Web Developer](https://img.shields.io/badge/WEB-DEVELOPER-6C63FF?style=for-the-badge)
+![UI/UX Designer](https://img.shields.io/badge/UI%2FUX-DESIGNER-1E1E1E?style=for-the-badge)
+![Mobile Developer](https://img.shields.io/badge/MOBILE-DEVELOPER-1E1E1E?style=for-the-badge)
 
 </div>
 
 ---
 
-## 👨‍💻 Tentang Saya
+## Tentang Saya
 
 Halo! Saya **Abdurrohman**, seorang pelajar di **SMK IDN Boarding School Solo** jurusan **Rekayasa Perangkat Lunak**. Saya memiliki fondasi kuat dalam **web development** (HTML, CSS, Tailwind, JavaScript, PHP, Laravel) dan sedang mengembangkan skill **UI/UX Design** serta fokus pada **Android development dengan Flutter**.
 
-🚀 **Misi Saya:** Menciptakan pengalaman digital yang seamless dan impactful melalui kombinasi desain yang indah dan kode yang efisien.
+**Misi Saya:** Menciptakan pengalaman digital yang seamless dan impactful melalui kombinasi desain yang indah dan kode yang efisien.
 
 ---
 
-## ⚡ Statistik GitHub
+## Statistik GitHub
 
 <div align="center">
 
@@ -36,13 +36,13 @@ Halo! Saya **Abdurrohman**, seorang pelajar di **SMK IDN Boarding School Solo** 
 
 ---
 
-## 🎯 Spesialisasi & Keahlian
+## Spesialisasi & Keahlian
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-### 🎨 UI/UX Design
+### UI/UX Design
 Wireframing • Prototyping<br/>User Research • Design System
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -50,7 +50,7 @@ Wireframing • Prototyping<br/>User Research • Design System
 </td>
 <td align="center" width="33%">
 
-### 💻 Web Development
+### Web Development
 Responsive Design<br/>Frontend Interactive • Cross-browser
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -60,7 +60,7 @@ Responsive Design<br/>Frontend Interactive • Cross-browser
 </td>
 <td align="center" width="33%">
 
-### 📱 Mobile Development
+### Mobile Development
 Cross-platform • Native Performance<br/>Beautiful UI
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -71,7 +71,7 @@ Cross-platform • Native Performance<br/>Beautiful UI
 <tr>
 <td align="center" width="33%">
 
-### ⚙️ Backend
+### Backend
 Database • RESTful API<br/>Server-side Logic
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -81,7 +81,7 @@ Database • RESTful API<br/>Server-side Logic
 </td>
 <td align="center" width="33%">
 
-### 🛠️ Tools & Workflow
+### Tools & Workflow
 Version Control • Collaboration<br/>Deployment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -90,7 +90,7 @@ Version Control • Collaboration<br/>Deployment
 </td>
 <td align="center" width="33%">
 
-### 📚 Certifications
+### Certifications
 Dicoding • ID Networkers
 
 ![Dicoding](https://img.shields.io/badge/Dicoding-2D3E50?style=flat-square&logo=dicoding&logoColor=white)
@@ -101,13 +101,13 @@ Dicoding • ID Networkers
 
 ---
 
-## 🧠 Apa yang Saya Kerjakan
+## Apa yang Saya Kerjakan
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### 📱 Mobile Apps
+### Mobile Apps
 - Aplikasi mobile dengan Flutter & Dart
 - UI/UX yang seamless dan responsif
 - Integrasi API dan backend services
@@ -116,7 +116,7 @@ Dicoding • ID Networkers
 </td>
 <td width="50%">
 
-### 💻 Web Projects
+### Web Projects
 - Website portofolio profesional
 - Landing page modern dan responsif
 - Dashboard interaktif dengan JavaScript
@@ -127,7 +127,7 @@ Dicoding • ID Networkers
 <tr>
 <td width="50%">
 
-### 🎨 UI/UX Design
+### UI/UX Design
 - Wireframing & high-fidelity mockups
 - Design system & component library
 - User journey mapping
@@ -136,7 +136,7 @@ Dicoding • ID Networkers
 </td>
 <td width="50%">
 
-### ⚙️ Backend System
+### Backend System
 - RESTful API dengan Laravel
 - Database design (MySQL)
 - Authentication & authorization
@@ -148,20 +148,20 @@ Dicoding • ID Networkers
 
 ---
 
-## 🌟 Nilai & Prinsip Kerja
+## Nilai & Prinsip Kerja
 
 <table align="center">
 <tr>
-<td align="center" width="25%">🎯<br/><b>User-Centric</b><br/><sub>Mengedepankan kebutuhan pengguna</sub></td>
-<td align="center" width="25%">📝<br/><b>Clean Code</b><br/><sub>Kode bersih dan maintainable</sub></td>
-<td align="center" width="25%">📚<br/><b>Continuous Learning</b><br/><sub>Selalu update dengan teknologi terbaru</sub></td>
-<td align="center" width="25%">🤝<br/><b>Collaboration</b><br/><sub>Teamwork & komunikasi efektif</sub></td>
+<td align="center" width="25%"><b>User-Centric</b><br/><sub>Mengedepankan kebutuhan pengguna</sub></td>
+<td align="center" width="25%"><b>Clean Code</b><br/><sub>Kode bersih dan maintainable</sub></td>
+<td align="center" width="25%"><b>Continuous Learning</b><br/><sub>Selalu update dengan teknologi terbaru</sub></td>
+<td align="center" width="25%"><b>Collaboration</b><br/><sub>Teamwork & komunikasi efektif</sub></td>
 </tr>
 </table>
 
 ---
 
-## 📊 Waktu Berkontribusi
+## Waktu Berkontribusi
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maman2008&theme=github-dark&bg_color=0A0A0A&color=6C63FF&line=6C63FF&point=E0E0E0&area=true&hide_border=false&border_radius=16&border_color=2D2D2D" width="98%" />
@@ -169,7 +169,7 @@ Dicoding • ID Networkers
 
 ---
 
-## 🤝 Mari Terhubung
+## Mari Terhubung
 
 <div align="center">
 
@@ -194,5 +194,5 @@ Dicoding • ID Networkers
 <div align="center">
 <b>© 2024 Abdurrohman • IDN Student</b>
 <br/>
-<sub>✨ "Build with passion, create with purpose" ✨</sub>
+<sub>"Build with passion, create with purpose"</sub>
 </div>
